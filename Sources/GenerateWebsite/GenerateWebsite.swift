@@ -55,7 +55,7 @@ public func generateWebsite() -> String {
                     div([style(item)], [
                         p([
                             "Check out the related ",
-                            a([href("https://www.jasonzurita.com/websites-using-swift-and-lambda/")], ["blog post."]),
+                            a([href("https://www.jasonzurita.com/websites-using-swift-and-aws-lambda/")], ["blog post."]),
                         ]),
                     ]),
                 ]),
