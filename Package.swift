@@ -1,5 +1,4 @@
 // swift-tools-version:4.2
-// The swift-tools-version declares the minimum version of Swift required to build this package.
 
 import PackageDescription
 
@@ -27,9 +26,6 @@ let package = Package(
             name: "Local-Website",
             dependencies: ["GenerateWebsite"]),
         .target(
-            // Note:
-            // Html comes from swift-html above
-            // Css and HtmlCssSupport comes from swift-web above
             name: "Swift-AWS-Lambda-Website",
             dependencies: ["AWSLambdaSwift", "GenerateWebsite"]),
     ]
