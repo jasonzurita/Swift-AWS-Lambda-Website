@@ -13,8 +13,8 @@ let package = Package(
         .package(url: "https://github.com/tonisuter/aws-lambda-swift.git", .branch("master")),
         // The next two dependencies are HTML and CSS Swift DSLs (respectively)
         // This will facilitate creating styled HTML, which will be returned from the AWS Lambda function
-        .package(url: "https://github.com/pointfreeco/swift-html.git", from: "0.2.0"),
-        .package(url: "https://github.com/pointfreeco/swift-web.git", .branch("master")),
+        .package(url: "https://github.com/pointfreeco/swift-html.git", .exact("0.2.1")),
+        .package(url: "https://github.com/pointfreeco/swift-web.git", .revision("2c3d440")),
     ],
     targets: [
         .target(

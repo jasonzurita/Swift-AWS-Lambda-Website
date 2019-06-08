@@ -6,7 +6,7 @@
         "repositoryURL": "https://github.com/tonisuter/aws-lambda-swift.git",
         "state": {
           "branch": "master",
-          "revision": "21149409a090c49cfedf3196df4287a6b7af9e45",
+          "revision": "9f45d6a534ab1f801cc3c7a98da0f2d097118c19",
           "version": null
         }
       },
@@ -42,8 +42,8 @@
         "repositoryURL": "https://github.com/apple/swift-nio.git",
         "state": {
           "branch": null,
-          "revision": "87dbd0216c47ea2e7ddb1b545271b716e03b943e",
-          "version": "1.13.1"
+          "revision": "ba7970fe396e8198b84c6c1b44b38a1d4e2eb6bd",
+          "version": "1.14.1"
         }
       },
       {
@@ -56,20 +56,11 @@
         }
       },
       {
-        "package": "NonEmpty",
-        "repositoryURL": "https://github.com/pointfreeco/swift-nonempty.git",
-        "state": {
-          "branch": null,
-          "revision": "bcf639e8ec6c20b6b7b28ed9bfa0fe83450c3248",
-          "version": "0.1.2"
-        }
-      },
-      {
         "package": "Prelude",
         "repositoryURL": "https://github.com/pointfreeco/swift-prelude.git",
         "state": {
-          "branch": "8cbc934",
-          "revision": "8cbc93417c7dca20124d25ab9f2c0d31999e26ec",
+          "branch": "6e426b0",
+          "revision": "6e426b0300360d3892f14639a4a5e7f3b8655689",
           "version": null
         }
       },
@@ -83,20 +74,11 @@
         }
       },
       {
-        "package": "Tagged",
-        "repositoryURL": "https://github.com/pointfreeco/swift-tagged.git",
-        "state": {
-          "branch": null,
-          "revision": "d53900894206f9453a837b566f2805c0f9c86967",
-          "version": "0.2.0"
-        }
-      },
-      {
         "package": "Web",
         "repositoryURL": "https://github.com/pointfreeco/swift-web.git",
         "state": {
-          "branch": "master",
-          "revision": "a968110de730b63c0d76e3ab9039c78683c97bd8",
+          "branch": "2c3d440",
+          "revision": "2c3d4403365f3f54264f89a2771bb83b562d51ca",
           "version": null
         }
       }
