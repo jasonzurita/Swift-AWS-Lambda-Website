@@ -8,7 +8,7 @@ This is the result of asking, _Can I make lightweight websites written in Swift 
 
 **Check out the related blog posts for a detailed breakdown:**
 - [Websites using Swift and AWS Lambda — Part 1](https://www.jasonzurita.com/websites-using-swift-and-aws-lambda/) - Overview & Generating HTML/CSS using Swift
-- Websites using Swift and AWS Lambda — Part 2 — Hosting using Amazon Web Services (AWS) _(coming soon)_
+- [Websites using Swift and AWS Lambda — Part 2](https://jasonzurita.com/websites-using-swift-and-aws-lambda-part-2/) — Deploying & hosting the website using Amazon Web Services (AWS)
 
 ---
 
