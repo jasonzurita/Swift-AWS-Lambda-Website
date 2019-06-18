@@ -7,8 +7,8 @@ This is the result of asking, _Can I make lightweight websites written in Swift 
 ---
 
 **Check out the related blog posts for a detailed breakdown:**
-- [Websites using Swift and AWS Lambda — Part 1](https://www.jasonzurita.com/websites-using-swift-and-aws-lambda/) - Overview & Generating HTML/CSS using Swift
-- [Websites using Swift and AWS Lambda — Part 2](https://jasonzurita.com/websites-using-swift-and-aws-lambda-part-2/) — Deploying & hosting the website using Amazon Web Services (AWS)
+- [Websites using Swift and AWS Lambda - Part 1](https://jasonzurita.com/websites-using-swift-and-aws-lambda/) — Overview & Generating HTML/CSS using Swift
+- [Websites using Swift and AWS Lambda - Part 2](https://jasonzurita.com/websites-using-swift-and-aws-lambda-part-2/) — Deploying & hosting the website using Amazon Web Services (AWS)
 
 ---
 
@@ -19,6 +19,6 @@ This is the result of asking, _Can I make lightweight websites written in Swift 
   + open _Artifacts/index.html_ in your preferred web browser
 - AWS Lambda function
   + `make`
-  + upload to _Artifacts/lambda.zip_ to AWS Lambda
-    + _more details in the part 2 blog post above_
+  + upload _Artifacts/lambda.zip_ to AWS Lambda
+    + _more deployment details in the part 2 blog post above_
 - Try changing _Sources/GenerateWebsite/GenerateWebsite.swift_ and rerunning the local development flow above to see changes!
