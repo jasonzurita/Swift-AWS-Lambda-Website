@@ -17,6 +17,8 @@ guard let fileHandle = FileHandle(forWritingAtPath: outputFilePath) else {
     exit(1)
 }
 
+fileHandle.truncateFile(atOffset: 0)
+
 if let data = html.data(using: .utf8) {
     fileHandle.write(data)
 }
